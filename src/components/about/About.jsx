@@ -19,8 +19,8 @@ const About = () => {
           <p className="about__description">
             Hey! 👋🏽 I'm Zayed Umer, a second-year Software Engineering student
             at McMaster University. 🎓 I'm a tech enthusiast who loves coding,
-            playing basketball 🏀, watching Formula One 🏎️, and exploring nature
-            🍃. Let's connect and bring some tech magic to your team! 🚀
+            playing basketball 🏀, Formula One 🏎️, and exploring nature 🍃.
+            Let's connect and bring some magic to your team! 🚀
           </p>
 
           <a

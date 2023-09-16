@@ -64,7 +64,7 @@ const Data = () => {
         work experiences 💼, and chronicled my educational journey 🎓, among
         other things. If you're curious and eager to learn more or simply want
         to connect, please don't hesitate to send me a message 📩. I'm all ears
-        and genuinely excited to chat! 😊🚀
+        and excited to chat! 😊🚀
       </p>
 
       <a href="#contact" className="button button--flex">
