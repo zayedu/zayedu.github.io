@@ -17,8 +17,10 @@ const About = () => {
           <Info />
 
           <p className="about__description">
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam
-            alias \
+            Hey! 👋🏽 I'm Zayed Umer, a second-year Software Engineering student
+            at McMaster University. 🎓 I'm a tech enthusiast who loves coding,
+            playing basketball 🏀, watching Formula One 🏎️, and exploring nature
+            🍃. Let's connect and bring some tech magic to your team! 🚀
           </p>
 
           <a

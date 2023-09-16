@@ -59,10 +59,12 @@ const Data = () => {
         Second Year Software Engineering Student @ McMaster University
       </h3>
       <p className="home__description">
-        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Maiores vel
-        repellat cupiditate ad perferendis sunt natus molestiae repellendus
-        omnis veritatis tempore, iste deleniti rerum expedita qui illum
-        temporibus laudantium eius?
+        Welcome to my personal website! 😄 It's truly a pleasure to have you
+        here. 🌟 This is where I've detailed my technical skills 💻, shared my
+        work experiences 💼, and chronicled my educational journey 🎓, among
+        other things. If you're curious and eager to learn more or simply want
+        to connect, please don't hesitate to send me a message. 📩 I'm all ears
+        and genuinely excited to chat! 😊🚀
       </p>
 
       <a href="#contact" className="button button--flex">
