@@ -56,7 +56,7 @@ const Data = () => {
         </svg>
       </h1>
       <h3 className="home__subtitle">
-        Second Year Software Engineering Student @ McMaster University
+        Second Year Software Engineering Student {"\n"}@ McMaster University
       </h3>
       <p className="home__description">
         Welcome to my personal website! 😄 It's truly a pleasure to have you
