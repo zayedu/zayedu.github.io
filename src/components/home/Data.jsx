@@ -63,7 +63,7 @@ const Data = () => {
         here. 🌟 This is where I've detailed my technical skills 💻, shared my
         work experiences 💼, and chronicled my educational journey 🎓, among
         other things. If you're curious and eager to learn more or simply want
-        to connect, please don't hesitate to send me a message. 📩 I'm all ears
+        to connect, please don't hesitate to send me a message 📩. I'm all ears
         and genuinely excited to chat! 😊🚀
       </p>
 
