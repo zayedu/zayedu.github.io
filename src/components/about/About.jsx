@@ -18,9 +18,7 @@ const About = () => {
 
           <p className="about__description">
             Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam
-            alias commodi quaerat natus cumque, totam molestias pariatur rerum
-            adipisci, nihil eos possimus accusantium nostrum iusto enim nam
-            placeat mollitia sequi!
+            alias \
           </p>
 
           <a
