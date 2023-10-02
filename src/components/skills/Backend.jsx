@@ -41,7 +41,7 @@ const Backend = () => {
 
             <div>
               <h3 className="skills__name">GitHub</h3>
-              <span className="skills__level">Intermediate</span>
+              <span className="skills__level">Advanced</span>
             </div>
           </div>
           <div className="skills__data">
