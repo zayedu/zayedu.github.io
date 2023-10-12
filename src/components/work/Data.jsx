@@ -2,7 +2,7 @@ import Work1 from "../../assets/work1.jpg";
 import Work2 from "../../assets/work2.jpg";
 import Work3 from "../../assets/work3.jpg";
 import Work4 from "../../assets/SignLanguageDetection_Demo.jpg";
-
+import Work5 from "../../assets/FinanceBotDemo.jpg";
 export const projectsData = [
   {
     id: 1,
@@ -28,12 +28,12 @@ export const projectsData = [
     title: "Real Time Sign Language Interpreter",
     category: "personal",
   },
-  /* {
+  {
     id: 5,
     image: Work5,
-    title: "Web design",
-    category: "Web",
-  },*/
+    title: "Stock Analysis ChatBot",
+    category: "personal",
+  },
 ];
 
 export const projectsNav = [
