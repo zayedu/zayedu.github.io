@@ -33,6 +33,39 @@ const Backend = () => {
               <span className="skills__level">Advanced</span>
             </div>
           </div>
+
+          <div className="skills__data">
+            <i className="bx bx-badge-check"></i>
+
+            <div>
+              <h3 className="skills__name">React</h3>
+              <span className="skills__level">Intermediate</span>
+            </div>
+          </div>
+          <div className="skills__data">
+            <i className="bx bx-badge-check"></i>
+
+            <div>
+              <h3 className="skills__name">OpenCV</h3>
+              <span className="skills__level">Basic</span>
+            </div>
+          </div>
+          <div className="skills__data">
+            <i className="bx bx-badge-check"></i>
+
+            <div>
+              <h3 className="skills__name">Pickle</h3>
+              <span className="skills__level">Basic</span>
+            </div>
+          </div>
+          <div className="skills__data">
+            <i className="bx bx-badge-check"></i>
+
+            <div>
+              <h3 className="skills__name">Matplotlib</h3>
+              <span className="skills__level">Basic</span>
+            </div>
+          </div>
         </div>
 
         <div className="skills__group">
@@ -50,6 +83,46 @@ const Backend = () => {
             <div>
               <h3 className="skills__name">Jira</h3>
               <span className="skills__level">Intermediate</span>
+            </div>
+          </div>
+          <div className="skills__data">
+            <i className="bx bx-badge-check"></i>
+
+            <div>
+              <h3 className="skills__name">TensorFlow</h3>
+              <span className="skills__level">Basic</span>
+            </div>
+          </div>
+          <div className="skills__data">
+            <i className="bx bx-badge-check"></i>
+
+            <div>
+              <h3 className="skills__name">NumPy</h3>
+              <span className="skills__level">Basic</span>
+            </div>
+          </div>
+          <div className="skills__data">
+            <i className="bx bx-badge-check"></i>
+
+            <div>
+              <h3 className="skills__name">Pandas</h3>
+              <span className="skills__level">Basic</span>
+            </div>
+          </div>
+          <div className="skills__data">
+            <i className="bx bx-badge-check"></i>
+
+            <div>
+              <h3 className="skills__name">OpenAI</h3>
+              <span className="skills__level">Basic</span>
+            </div>
+          </div>
+          <div className="skills__data">
+            <i className="bx bx-badge-check"></i>
+
+            <div>
+              <h3 className="skills__name">SciKit</h3>
+              <span className="skills__level">Basic</span>
             </div>
           </div>
         </div>
