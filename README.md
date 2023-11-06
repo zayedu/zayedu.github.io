@@ -40,4 +40,4 @@ Thank you for considering my portfolio, and I look forward to potentially workin
 
 ---
 
-[Visit Portfolio](https://zayedu.github.io)
+[Visit Portfolio](https://notzayed.me)
