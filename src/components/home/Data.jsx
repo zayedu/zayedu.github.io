@@ -59,12 +59,10 @@ const Data = () => {
         Second Year Software Engineering Student @ McMaster University
       </h3>
       <p className="home__description">
-        Welcome to my personal website! 😄 It's truly a pleasure to have you
-        here. 🌟 This is where I've detailed my technical skills 💻, shared my
-        work experiences 💼, and chronicled my educational journey 🎓, among
-        other things. If you're curious and eager to learn more or simply want
-        to connect, please don't hesitate to send me a message 📩. I'm all ears
-        and excited to chat! 😊🚀
+        💻 Tech Enthusiast | Problem-solver | Code Creator 🚀 | Passionate about
+        pushing the boundaries of technology and applying it to real-world
+        challenges. 💡 | Explore my portfolio to see the projects that reflect
+        my dedication to making a meaningful impact. 🌐
       </p>
 
       <a href="#contact" className="button button--flex">
