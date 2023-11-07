@@ -20,7 +20,7 @@ I'm a second-year software engineering student at McMaster University, and I'm p
 
 ## How to Access
 
-You can view the portfolio by visiting [My Portfolio](https://zayedu.github.io).
+You can view the portfolio by visiting [My Portfolio](https://notzayed.me).
 
 ## Technologies Used
 
