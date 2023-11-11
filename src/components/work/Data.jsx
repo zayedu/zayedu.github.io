@@ -3,6 +3,8 @@ import Work2 from "../../assets/work2.jpg";
 import Work3 from "../../assets/work3.jpg";
 import Work4 from "../../assets/SignLanguageDetection_Demo.jpg";
 import Work5 from "../../assets/chatbotdemo.jpg";
+import Work6 from "../../assets/Movie-Recommendation-Demo.jpg";
+
 export const projectsData = [
   {
     id: 1,
@@ -40,6 +42,13 @@ export const projectsData = [
     title: "Stock Analysis ChatBot",
     category: "personal",
     moreInfoUrl: "https://github.com/zayedu/StockAnalysisChatbot",
+  },
+  {
+    id: 6,
+    image: Work6,
+    title: "Movie Recommendation Site",
+    category: "personal",
+    moreInfoUrl: "https://github.com/zayedu/Movie-Recommendation-Site",
   },
 ];
 
