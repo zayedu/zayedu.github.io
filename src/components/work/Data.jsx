@@ -4,6 +4,7 @@ import Work3 from "../../assets/work3.jpg";
 import Work4 from "../../assets/SignLanguageDetection_Demo.jpg";
 import Work5 from "../../assets/chatbotdemo.jpg";
 import Work6 from "../../assets/Movie-Recommendation-Demo.jpg";
+import Work7 from "../../assets/2XC3FinalProject.jpg";
 
 export const projectsData = [
   {
@@ -49,6 +50,13 @@ export const projectsData = [
     title: "Movie Recommendation Site",
     category: "personal",
     moreInfoUrl: "https://github.com/zayedu/Movie-Recommendation-Site",
+  },
+  {
+    id: 7,
+    image: Work7,
+    title: "Password Resilience Analyzer",
+    category: "school",
+    moreInfoUrl: "https://github.com/zayedu/Password-Resilience-Analyzer",
   },
 ];
 
