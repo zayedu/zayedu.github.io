@@ -5,6 +5,7 @@ import Work4 from "../../assets/SignLanguageDetection_Demo.jpg";
 import Work5 from "../../assets/chatbotdemo.jpg";
 import Work6 from "../../assets/Movie-Recommendation-Demo.jpg";
 import Work7 from "../../assets/2XC3FinalProject.jpg";
+import Work8 from "../../assets/EmotionRecognition_demo.jpg";
 
 export const projectsData = [
   {
@@ -57,6 +58,13 @@ export const projectsData = [
     title: "Password Resilience Analyzer",
     category: "school",
     moreInfoUrl: "https://github.com/zayedu/Password-Resilience-Analyzer",
+  },
+  {
+    id: 8,
+    image: Work8,
+    title: "Emotion Recognition Program",
+    category: "personal",
+    moreInfoUrl: "https://github.com/zayedu/Emotion-Detector",
   },
 ];
 
