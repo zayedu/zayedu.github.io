@@ -17,54 +17,55 @@ export const projectsData = [
   },
   {
     id: 2,
-    image: Work3,
-    title: "Revenge Of The Recycling System",
-    category: "school",
-    moreInfoUrl:
-      "https://www.notion.so/Project-3-Revenge-Of-The-Recycling-System-74ee2c998b954bff9c8e407a37ddb2d0?pvs=4",
-  },
-  {
-    id: 3,
-    image: Work2,
-    title: "Get A Grip",
-    category: "school",
-    moreInfoUrl:
-      "https://www.notion.so/Project-2-Get-A-Grip-8bfea6bdd52a4bb2b12f00ac9ade76f7?pvs=4",
-  },
-  {
-    id: 4,
     image: Work4,
     title: "Real Time Sign Language Interpreter",
     category: "personal",
     moreInfoUrl: "https://github.com/zayedu/SignLanguageAI",
   },
   {
-    id: 5,
+    id: 3,
+    image: Work8,
+    title: "Emotion Recognition Program",
+    category: "personal",
+    moreInfoUrl: "https://github.com/zayedu/Emotion-Detector",
+  },
+  {
+    id: 4,
     image: Work5,
     title: "Stock Analysis ChatBot",
     category: "personal",
     moreInfoUrl: "https://github.com/zayedu/StockAnalysisChatbot",
   },
   {
-    id: 6,
+    id: 5,
     image: Work6,
     title: "Movie Recommendation Site",
     category: "personal",
     moreInfoUrl: "https://github.com/zayedu/Movie-Recommendation-Site",
   },
   {
-    id: 7,
+    id: 6,
     image: Work7,
     title: "Password Resilience Analyzer",
     category: "school",
     moreInfoUrl: "https://github.com/zayedu/Password-Resilience-Analyzer",
   },
   {
+    id: 7,
+    image: Work2,
+    title: "Get A Grip",
+    category: "school",
+    moreInfoUrl:
+      "https://www.notion.so/Project-2-Get-A-Grip-8bfea6bdd52a4bb2b12f00ac9ade76f7?pvs=4",
+  },
+
+  {
     id: 8,
-    image: Work8,
-    title: "Emotion Recognition Program",
-    category: "personal",
-    moreInfoUrl: "https://github.com/zayedu/Emotion-Detector",
+    image: Work3,
+    title: "Revenge Of The Recycling System",
+    category: "school",
+    moreInfoUrl:
+      "https://www.notion.so/Project-3-Revenge-Of-The-Recycling-System-74ee2c998b954bff9c8e407a37ddb2d0?pvs=4",
   },
 ];
 
