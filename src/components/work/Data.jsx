@@ -6,7 +6,7 @@ import Work5 from "../../assets/chatbotdemo.jpg";
 import Work6 from "../../assets/Movie-Recommendation-Demo.jpg";
 import Work7 from "../../assets/2XC3FinalProject.jpg";
 import Work8 from "../../assets/EmotionRecognition_demo.jpg";
-import Work9 from "../../assets/DigitRecognition_demo.jpg";
+import Work9 from "../../assets/DigitRecognition_Demo.jpg";
 
 export const projectsData = [
   {
@@ -40,7 +40,7 @@ export const projectsData = [
   {
     id: 9,
     image: Work9,
-    title: "Ai Digit Recognition",
+    title: "AI Digit Recognition",
     category: "personal",
     moreInfoUrl: "https://github.com/zayedu/Digit-Recognition",
   },
