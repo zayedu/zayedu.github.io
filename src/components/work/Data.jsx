@@ -7,6 +7,7 @@ import Work6 from "../../assets/Movie-Recommendation-Demo.jpg";
 import Work7 from "../../assets/2XC3FinalProject.jpg";
 import Work8 from "../../assets/EmotionRecognition_demo.jpg";
 import Work9 from "../../assets/DigitRecognition_Demo.jpg";
+import Work10 from "../../assets/LaneAssist.jpg";
 
 export const projectsData = [
   {
@@ -36,6 +37,13 @@ export const projectsData = [
     title: "Stock Analysis ChatBot",
     category: "personal",
     moreInfoUrl: "https://github.com/zayedu/StockAnalysisChatbot",
+  },
+  {
+    id: 10,
+    image: Work10,
+    title: "Lane Identifier",
+    category: "personal",
+    moreInfoUrl: "  https://github.com/zayedu/Lane-Id",
   },
   {
     id: 9,
