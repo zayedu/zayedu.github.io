@@ -6,6 +6,7 @@ import Work5 from "../../assets/chatbotdemo.jpg";
 import Work6 from "../../assets/Movie-Recommendation-Demo.jpg";
 import Work7 from "../../assets/2XC3FinalProject.jpg";
 import Work8 from "../../assets/EmotionRecognition_demo.jpg";
+import Work9 from "../../assets/DigitRecognition_demo.jpg";
 
 export const projectsData = [
   {
@@ -35,6 +36,13 @@ export const projectsData = [
     title: "Stock Analysis ChatBot",
     category: "personal",
     moreInfoUrl: "https://github.com/zayedu/StockAnalysisChatbot",
+  },
+  {
+    id: 9,
+    image: Work9,
+    title: "Ai Digit Recognition",
+    category: "personal",
+    moreInfoUrl: "https://github.com/zayedu/Digit-Recognition",
   },
   {
     id: 5,
