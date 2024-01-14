@@ -17,13 +17,7 @@ export const projectsData = [
     category: "web",
     moreInfoUrl: "https://github.com/zayedu/zayedu.github.io",
   },
-  {
-    id: 2,
-    image: Work4,
-    title: "Real Time Sign Language Interpreter",
-    category: "personal",
-    moreInfoUrl: "https://github.com/zayedu/SignLanguageAI",
-  },
+
   {
     id: 3,
     image: Work8,
