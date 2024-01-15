@@ -17,7 +17,13 @@ export const projectsData = [
     category: "web",
     moreInfoUrl: "https://github.com/zayedu/zayedu.github.io",
   },
-
+  {
+    id: 2,
+    image: Work4,
+    title: "Sign Simplified",
+    category: "personal",
+    moreInfoUrl: "https://github.com/zayedu/SignSimplified",
+  },
   {
     id: 3,
     image: Work8,
