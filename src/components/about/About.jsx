@@ -19,10 +19,8 @@ const About = () => {
           <p className="about__description">
             👋 Hi, I'm Zayed! I'm a tech enthusiast who loves exploring new
             ideas and building things. Beyond the screen, I enjoy outdoor
-            adventures 🌿, sports 🏀, and reading 📚. Learning 🧠 and connecting
-            with diverse perspectives drive me. Let's explore and discover
-            together! I am currently working on cool projects to solve problems
-            that intrigue me.
+            adventures, sports, and cooking. I am currently working on cool
+            projects to solve problems that intrigue me.
           </p>
 
           <a
