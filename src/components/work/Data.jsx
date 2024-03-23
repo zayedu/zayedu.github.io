@@ -8,7 +8,7 @@ import Work7 from "../../assets/2XC3FinalProject.jpg";
 import Work8 from "../../assets/EmotionRecognition_demo.jpg";
 import Work9 from "../../assets/DigitRecognition_Demo.jpg";
 import Work10 from "../../assets/LaneAssist.jpg";
-
+import Work11 from "../../assets/mazerunner.png";
 export const projectsData = [
   {
     id: 1,
@@ -44,6 +44,13 @@ export const projectsData = [
     title: "Lane Identifier",
     category: "personal",
     moreInfoUrl: "  https://github.com/zayedu/Lane-Id",
+  },
+  {
+    id: 11,
+    image: Work11,
+    title: "Maze Solving Algorithm",
+    category: "school",
+    moreInfoUrl: "https://github.com/zayedu/a1-maze-runner-zayedu",
   },
   {
     id: 9,
