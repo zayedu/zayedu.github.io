@@ -9,6 +9,9 @@ import Work8 from "../../assets/EmotionRecognition_demo.jpg";
 import Work9 from "../../assets/DigitRecognition_Demo.jpg";
 import Work10 from "../../assets/LaneAssist.jpg";
 import Work11 from "../../assets/mazerunner.png";
+import Work12 from "../../assets/scotia-safe.png";
+import Work13 from "../../assets/PocketTraderDemo.gif";
+import Work14 from "../../assets/grade-tracker.png";
 export const projectsData = [
   {
     id: 1,
@@ -17,6 +20,28 @@ export const projectsData = [
     category: "web",
     moreInfoUrl: "https://github.com/zayedu/zayedu.github.io",
   },
+  {
+    id: 13,
+    image: Work13,
+    title: "Pocket Trader",
+    category: "personal",
+    moreInfoUrl: "https://github.com/zayedu/TradingBot",
+  },
+  {
+    id: 12,
+    image: Work12,
+    title: "Scotia Safe",
+    category: "personal",
+    moreInfoUrl: "https://github.com/zayedu/scotia-safe-shacks",
+  },
+  {
+    id: 13,
+    image: Work14,
+    title: "Grade Tracker",
+    category: "personal",
+    moreInfoUrl: "https://github.com/zayedu/GradeTracker",
+  },
+
   {
     id: 2,
     image: Work4,
