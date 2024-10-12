@@ -56,7 +56,7 @@ const Data = () => {
         </svg>
       </h1>
       <h3 className="home__subtitle">
-        Second Year Software Engineering Student @ McMaster University
+        Third Year Software Engineering Student @ McMaster University
       </h3>
       <p className="home__description">
         💻 Tech Enthusiast | Problem-solver | Code Creator 🚀 | Passionate about
