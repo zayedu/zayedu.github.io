@@ -89,7 +89,7 @@ function Top5Tracks() {
             display: "flex",
             alignItems: "center",
             gap: "0.5rem",
-            width: "20rem",
+            width: "18rem",
             textAlign: "left",
             textDecoration: "none",
             color: "inherit",
