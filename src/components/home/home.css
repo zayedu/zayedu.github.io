@@ -4,11 +4,14 @@
 
 .home__content {
   grid-template-columns: 116px repeat(2, 1fr);
-  padding-top: 5.5rem;
+  padding-top: 1rem;
   column-gap: 2rem;
   align-items: center;
 }
-
+.home__listening {
+  padding-top: 5rem;
+  margin-bottom: -6rem;
+}
 .home__social {
   display: grid;
   grid-template-columns: max-content;
