@@ -10,7 +10,7 @@ const Home = () => {
     <section className="home_section" id="home">
       <div className="home__container container grid">
         <div className="home__listening">
-          <p>Currently listening to:</p>
+          <p>Currently listening to: </p>
           <SpotifyNowPlaying />
         </div>
         <div className="home__content grid">
