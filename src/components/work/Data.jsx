@@ -12,6 +12,7 @@ import Work11 from "../../assets/mazerunner.png";
 import Work12 from "../../assets/scotia-safe.png";
 import Work13 from "../../assets/PocketTraderDemo.gif";
 import Work14 from "../../assets/grade-tracker.png";
+import Work15 from "../../assets/chainedsimple.png";
 export const projectsData = [
   {
     id: 1,
@@ -19,6 +20,13 @@ export const projectsData = [
     title: "Personal Portfolio",
     category: "web",
     moreInfoUrl: "https://github.com/zayedu/zayedu.github.io",
+  },
+  {
+    id: 15,
+    image: Work15,
+    title: "Chained Simple",
+    category: "personal",
+    moreInfoUrl: "https://github.com/zayedu/ChainedSimple",
   },
   {
     id: 13,
@@ -35,7 +43,7 @@ export const projectsData = [
     moreInfoUrl: "https://github.com/zayedu/scotia-safe-shacks",
   },
   {
-    id: 13,
+    id: 14,
     image: Work14,
     title: "Grade Tracker",
     category: "personal",
